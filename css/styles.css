@@ -84,7 +84,6 @@ color: #FFFFFF;
 
 .hero{
     background: #2e2f42;
-    padding: 188px 0;
 }
 
 .hero .button-hero{
@@ -95,6 +94,7 @@ background-color: #4D5AE5;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
+
 }
 
 .hero .button-hero:hover,
@@ -181,7 +181,7 @@ color: #2e2f42;
 .container{
     width: 1158px;
     margin: 0 auto;
-    border-bottom: 1px, solid #e7e9fc;
+    border-bottom: 1px solid #e7e9fc;
     display: flex;
     padding: 0 15px;
 }
@@ -194,13 +194,16 @@ color: #2e2f42;
 .nav-list-container{
     display: flex;
     gap: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding: 0 24px;
 }
 
 .contact-list-container{
     display: flex;
     gap: 40px;
+}
+
+.hero-container{
+    padding: 188px 0;
 }
 
 .hero-container .title-hero{
