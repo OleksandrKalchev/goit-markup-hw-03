@@ -195,7 +195,8 @@ color: #2e2f42;
 .nav-list-container{
     display: flex;
     gap: 40px;
-    padding: 24px 0 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .contact-list-container{
