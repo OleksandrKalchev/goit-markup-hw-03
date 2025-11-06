@@ -23,6 +23,7 @@ font-family: "Raleway", sans-serif;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
+    margin-right: 76px;
 }
 
 .logo .logo-part {
@@ -185,3 +186,16 @@ color: #2e2f42;
     display: flex;
     padding: 0 15px;
 }
+
+.nav-header-container{
+    display: flex;
+    align-items: center;
+}
+
+.nav-list-container{
+    display: flex;
+    gap: 40px;
+    padding: 24px 0;
+}
+
+
