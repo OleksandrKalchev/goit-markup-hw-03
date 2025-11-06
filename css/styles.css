@@ -177,3 +177,11 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
+
+.container{
+    width: 1158px;
+    margin: 0 auto;
+    border-bottom: 1px solid #e7e9fc;
+    display: flex;
+    padding: 0 15px;
+}
