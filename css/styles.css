@@ -204,3 +204,9 @@ color: #2e2f42;
     gap: 40px;
 }
 
+.hero-container{
+    display: flex;
+    gap: 40px;
+    padding: 188px 0;
+}
+
