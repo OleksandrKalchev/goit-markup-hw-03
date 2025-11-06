@@ -84,6 +84,7 @@ color: #FFFFFF;
 
 .hero{
     background: #2e2f42;
+    padding: 188px 0 ;
 }
 
 .hero .button-hero{
@@ -200,11 +201,7 @@ color: #2e2f42;
 .contact-list-container{
     display: flex;
     gap: 40px;
-}
-
-.hero-container{
-    padding: 188px 0;
-}
+}}
 
  .title-hero-container{
     max-width: 496px;
