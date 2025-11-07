@@ -243,6 +243,8 @@ margin-bottom: 8px;
 
 .section-two{
     padding: 120px 0;
+    background-color: #FFFFFF;
+    padding: 120px 
 }
 
 .values-list-container{
@@ -307,3 +309,4 @@ margin-bottom: 8px;
 .values-list-li{
   width: calc((100% - 72px) / 4);
 }
+
