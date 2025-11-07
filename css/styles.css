@@ -221,7 +221,9 @@ color: #2e2f42;
 }
 
 .values-list-container-li{
-    width: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
 }
+
+
 
 
