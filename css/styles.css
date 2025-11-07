@@ -297,3 +297,9 @@ margin-bottom: 8px;
     padding: 0 15px;
     margin: 0 auto;
 }
+
+
+.team-item{
+    background: #fff; 
+    border-radius: 0px 0px 4px 4px;
+}
