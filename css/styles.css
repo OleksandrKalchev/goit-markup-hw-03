@@ -215,4 +215,7 @@ color: #2e2f42;
     padding: 120px 0;
 }
 
+.none{
+    .visually-hidden;
+}
 
