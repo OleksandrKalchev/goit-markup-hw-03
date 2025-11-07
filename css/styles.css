@@ -118,7 +118,7 @@ background-color: #4D5AE5;
     letter-spacing: 0.02em;
     color: #2E2F42;
     margin: 0 0 0.5em 0;
-
+    margin-bottom: 8px;
 }
 
 .values-list .p-section-hh{
@@ -215,10 +215,6 @@ color: #2e2f42;
     padding: 120px 0;
 }
 
-.none{
-     margin-bottom: 8px;
-}
-
 .values-list-container{
     display: flex;
     gap: 24px;
@@ -227,4 +223,5 @@ color: #2e2f42;
 .values-list-container-li{
     width: calc((100% - 72px) / 4);
 }
+
 
