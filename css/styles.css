@@ -280,7 +280,6 @@ margin-bottom: 8px;
 }
 
 .logo-footer{
-    
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -291,4 +290,8 @@ margin-bottom: 8px;
     margin-right: 76px;
     display: inline-block;
     margin-bottom: 16px;
+}
+
+.logo-footer .logo-part-footer{
+    color:#f4f4fd;
 }
