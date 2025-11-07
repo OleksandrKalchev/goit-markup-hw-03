@@ -145,6 +145,11 @@ text-align: center;
 color: #434455;
 }
 
+.team-list{
+    display: flex;
+    gap: 24px;
+}
+
 .team-section .team-hh{
     font-size: 36px;
     line-height: 1.11;
@@ -152,14 +157,17 @@ color: #434455;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
+    margin-bottom: 72px;
 }
 
 .team-section .team-list .team-item{
-background: #fff;   
+    background: #fff;
+    width: calc((100% - 72px) / 4);   
 }
 
 .team-section{
     background-color: #f4f4fd;
+    padding: 120px 0;
 }
 
 .portfolio-section, .portfolio-hh{
