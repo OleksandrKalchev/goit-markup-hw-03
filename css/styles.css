@@ -203,9 +203,9 @@ color: #2e2f42;
     gap: 40px;
 }
 
- .container{
+ .title-hero-container{
     max-width: 496px;
-}
+ }
 
  .button-hero-container{
     display: block;
