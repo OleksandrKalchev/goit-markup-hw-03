@@ -169,8 +169,7 @@ color: #434455;
 }
 
 .team-section .team-list .team-item{
-    background: #fff;
-    width: calc((100% - 72px) / 4);   
+    background: #fff; 
     border-radius: 0px 0px 4px 4px;
 }
 
@@ -252,9 +251,7 @@ margin-bottom: 8px;
     gap: 24px;
 }
 
-.values-list-container-li{
-  width: calc((100% - 72px) / 4); 
-}
+
 
     .visually-hidden {
     position: absolute;
@@ -294,4 +291,8 @@ margin-bottom: 8px;
 
 .logo-footer .logo-part-footer{
     color:#f4f4fd;
+}
+
+.values-list-container-li{
+  width: calc((100% - 72px) / 4); 
 }
