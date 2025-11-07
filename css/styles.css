@@ -134,6 +134,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42; 
+margin-bottom: 8px;
 }
 
 .team-list .team-item .team-p{
@@ -158,6 +159,10 @@ color: #434455;
     text-transform: capitalize;
     color: #2E2F42;
     margin-bottom: 72px;
+}
+
+.team-container{
+    padding: 32px 0;
 }
 
 .team-section .team-list .team-item{
