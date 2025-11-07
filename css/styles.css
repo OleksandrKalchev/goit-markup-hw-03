@@ -216,6 +216,15 @@ color: #2e2f42;
 }
 
 .none{
-    .visually-hidden;
+     margin-bottom: 8px;
+}
+
+.values-list-container{
+    display: flex;
+    gap: 24px;
+}
+
+.values-list-container-li{
+    width: calc((100% - 72px) / 4);
 }
 
