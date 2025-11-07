@@ -202,7 +202,6 @@ color: #2e2f42;
 .container-header{
     width: 1158px;
     margin: 0 auto;
-    border-bottom: 1px solid #e7e9fc;
     display: flex;
     padding: 0 15px;
 }
@@ -251,3 +250,6 @@ color: #2e2f42;
 
 
 
+.herder{
+    border-bottom: 1px solid #e7e9fc;
+}
