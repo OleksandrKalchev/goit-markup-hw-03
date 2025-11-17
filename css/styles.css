@@ -305,6 +305,8 @@ margin-bottom: 8px;
     border-radius: 0px 0px 4px 4px;
 }
 
-.values-list-di{
-  flex-basis: calc((100% - 72px) / 4);
+.values-list-li{
+    width: calc((100% - 72px) / 4);
+    justify-content: space-around;
 }
+
