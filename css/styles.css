@@ -43,6 +43,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 padding: 24px 0;
+display: block;
 }
 
 .contacts-link{
@@ -90,6 +91,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #FFFFFF;
 max-width: 496px;
+margin:0 auto 48px;
 }
 
 .hero{
@@ -111,6 +113,7 @@ max-width: 496px;
     border-radius: 4px;
     cursor: pointer;
     height: 56px;
+    margin:0 auto;
 }
 
 .hero .button-hero:hover,
